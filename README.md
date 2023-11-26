@@ -35,6 +35,7 @@ To use the Calculator App, simply open the `index.html` file in your web browser
 
 ![image](https://github.com/gouravkamble9/task-2/assets/61933116/1923b4ae-6d41-4f90-8f60-658400a8cb23)
 
+https://github.com/gouravkamble9/task-2/assets/61933116/1f5d3fcd-66a4-45fb-8875-62b43a1fa28f
 
 
 
