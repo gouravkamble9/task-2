@@ -29,6 +29,9 @@ To use the Calculator App, simply open the `index.html` file in your web browser
 3. Input the second number.
 4. Click on the equal button to see the result.
 
+## Demo:
+https://gouravkamble9.github.io/task-2/
+
 ## Screenshots
 
 ![image](https://github.com/gouravkamble9/task-2/assets/61933116/3f4e2c5d-6d3e-4073-be72-33e783524e77)
